@@ -1,10 +1,6 @@
 #!/bin/sh
 #==============================================
-GITHUB_ACCOUNT=antisaga
-WS_DIR=Workspace_github
-REPO_NAME=google_search_parse
-APP_VERSION=1.1
-MAIN_CLASS=core2.App
+
 #==============================================
 
 
